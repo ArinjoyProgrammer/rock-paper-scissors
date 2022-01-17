@@ -30,6 +30,9 @@ This is a **RPS (Rock, Paper, Scissor) Game**. Created using **Python**
 
 <br/>
 
+## License Info
+[MIT License](LICENSE.txt) is used for this Project
+
 ## Author Info:
 
 **Author** - ``Arinjoy``<br>
