@@ -21,19 +21,12 @@ This is a **RPS (Rock, Paper, Scissor) Game**. Created using **Python**
 - Type/paste this in your terminal:
 ```bash
 >>  cd <C:\Users\User\Downloads\rps-python-master\src>
->>  cd <C:\Users\User\Downloads\rps-python-master\rps-python-master\src> 
 ```
 - Then type/paste this in your terminal:
 ```bash
 >>  python main.py
 ```
 - After writing this you can enjoy the **RPS Game**
-
-<br/>
-
-## How will you Contribute in the Project?
-
-- Feel free to create a Pull Request
 
 <br/>
 
