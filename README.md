@@ -45,5 +45,5 @@ This is a **RPS (Rock, Paper, Scissor) Game**. Created using **Python**
 <br/><br/>
 
 <div align="center">
-    Made by ❤ by ArinjoyProgrammer
+    Made by ❤ by Arinjoy
 </div>
