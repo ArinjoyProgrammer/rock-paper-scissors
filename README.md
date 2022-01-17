@@ -1,4 +1,4 @@
-# RPS game
+# Rock, Paper, Scissor game
 
 This is a **RPS (Rock, Paper, Scissor) Game**. Created using **Python**
 
