@@ -20,7 +20,8 @@ This is a **RPS (Rock, Paper, Scissor) Game**. Created using **Python**
 - Open up your **Command Prompt/Powershell or any terminal**
 - Type/paste this in your terminal:
 ```bash
->>  cd <path will be written later>
+>>  cd <C:\Users\User\Downloads\rps-python-master\src>
+>>  cd <C:\Users\User\Downloads\rps-python-master\rps-python-master\src> 
 ```
 - Then type/paste this in your terminal:
 ```bash
